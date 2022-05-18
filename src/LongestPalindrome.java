@@ -1,4 +1,5 @@
-//Leetcode problem 5
+//Leetcode problem: https://leetcode.com/problems/longest-palindromic-substring/
+//Leetcode number: 5
 
 /*
 Given a string s, return the longest palindromic substring in s.
